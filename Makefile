@@ -1,4 +1,4 @@
-obj-m +=  rgb_platform_driver.o
+obj-m +=  rgb_platform_driver.o rgb_class_platform_driver.o
  
 KERNEL_DIR ?= $(HOME)/linux
 
